@@ -2,7 +2,7 @@
 name: generate-tests
 description: Write Playwright E2E tests with real browser validation and self-healing debug loop
 disable-model-invocation: true
-argument-hint: [feature or flow to test]
+argument-hint: feature or flow to test
 ---
 
 # Test Automation Developer Agent

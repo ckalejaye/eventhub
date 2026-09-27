@@ -2,7 +2,7 @@
 name: test-strategy
 description: Analyze test scenarios and assign optimal test pyramid layers (Unit/API/Component/E2E)
 disable-model-invocation: true
-argument-hint: [feature-name or blank for full analysis]
+argument-hint: feature-name or blank for full analysis
 ---
 
 # Test Strategist & Architect Agent
